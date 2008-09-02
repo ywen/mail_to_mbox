@@ -1,0 +1,39 @@
+<%= stylesheet_link_tag "main", :media => "all" %>
+
+<h1>Your mail account setting</h1>
+<%= error_messages_for :account%>
+<% form_for :account, :url => mail_to_mbox_path, :method => :post do |f| -%>
+    <dl>
+        <dt><%= f.label :email_address, "Email address:"%></dt>
+        <dd><%= f.text_field :email_address %>
+            <span class="required">&nbsp;*&nbsp;</span>
+        </dd>
+
+        <dt><%= f.label :server, "POPMail server:"%></dt>
+        <dd><%= f.text_field :server %>
+            <span class="required">&nbsp;*&nbsp;</span>
+        </dd>
+
+		<dt><%= f.label :username, "POP username:"%></dt>
+        <dd><%= f.text_field :username %>
+            <span class="required">&nbsp;*&nbsp;</span>
+        </dd>
+        
+		<dt><%= f.label :password, "POP password:"%></dt>
+        <dd><%= f.password_field :password %>
+            <span class="required">&nbsp;*&nbsp;</span>
+        </dd>
+
+		<dt><%= f.label :ssl, "Use SSL:"%></dt>
+        <dd><%= f.check_box :ssl %>
+        </dd>        
+
+		<dt><%= f.label :port, "Port:"%></dt>
+        <dd><%= f.text_field :port %>
+            <span class="required">&nbsp;*&nbsp;</span>
+        </dd>
+
+		<span><%= f.submit "Get my emails"%></span>
+        
+	</dl>
+<% end -%>

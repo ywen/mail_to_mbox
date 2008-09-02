@@ -1,0 +1,21 @@
+dt {
+    clear: left;
+    float:left;
+    width:25%;
+    padding-left: 1em;
+    font-weight:bold;
+}
+
+dd {
+    margin-bottom: 4px;
+}
+
+.required {
+    color: red;
+}
+
+.fieldWithErrors {
+  padding: 2px;
+  background-color: red;
+  display: inline;
+}
