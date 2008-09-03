@@ -36,6 +36,7 @@ ActionController::Routing::Routes.draw do |map|
   # See how all your routes lay out with "rake routes"
   map.resource :mail_to_mbox, :member => {:thank_you => :get}
   map.resources :download
+  map.root :controller => "mail_to_mboxes", :action => "new"
   # Install the default routes as the lowest priority.
   map.connect ':controller/:action/:id'
   map.connect ':controller/:action/:id.:format'
