@@ -8,12 +8,12 @@ describe ObfuscatedString, "generating obfuscated string method" do
       generate_obfuscated_string_method :method_name, :test_string
   
       def test_string
-        "test_string"
+        "test_20098976"
       end
       
     end.new
   
-    test_obj.method_name.should == "#{'test'.hash}#{'string'.hash}"
+    test_obj.method_name.should == "#{'test'.hash.abs}#{'20098976'.hash.abs}"
   end
 end
   

@@ -652,3 +652,213 @@ Mime-Version: 1.0
 Content-Type: text/plain; charset=utf-8
 
 Your email has been archived. you can download you email archive in mbox form at http://getmyemails.selfip.com:3000/download/316125762350451107
+Sent mail to email address
+
+From: no-reply@example.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/316125762-660097792
+Sent mail to email address
+
+From: no-reply@example.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/316125762-660097792
+
+
+Processing MailToMboxesController#create (for 0.0.0.0 at 2008-09-02 21:53:09) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"mail_to_mboxes"}
+Redirected to http://test.host/mail_to_mbox/thank_you
+Completed in 0.00285 (350 reqs/sec) | 302 Found [http://test.host/mail_to_mbox]
+
+
+Processing MailToMboxesController#create (for 0.0.0.0 at 2008-09-02 21:53:09) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/new
+Completed in 0.00042 (2376 reqs/sec) | Rendering: 0.00020 (47%) | 200 OK [http://test.host/mail_to_mbox]
+Sent mail to email address
+
+From: no-reply@example.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/316125762768170728
+Sent mail to email address
+
+From: no-reply@example.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/316125762768170728
+
+
+Processing MailToMboxesController#create (for 0.0.0.0 at 2008-09-02 22:01:20) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"mail_to_mboxes"}
+Redirected to http://test.host/mail_to_mbox/thank_you
+Completed in 0.00231 (433 reqs/sec) | 302 Found [http://test.host/mail_to_mbox]
+
+
+Processing MailToMboxesController#create (for 0.0.0.0 at 2008-09-02 22:01:20) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/new
+Completed in 0.00041 (2462 reqs/sec) | Rendering: 0.00019 (47%) | 200 OK [http://test.host/mail_to_mbox]
+Sent mail to email address
+
+From: no-reply@example.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/316125762768441324
+Sent mail to email address
+
+From: no-reply@example.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/316125762768441324
+
+
+Processing MailToMboxesController#create (for 0.0.0.0 at 2008-09-02 22:01:59) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"mail_to_mboxes"}
+Redirected to http://test.host/mail_to_mbox/thank_you
+Completed in 0.00233 (429 reqs/sec) | 302 Found [http://test.host/mail_to_mbox]
+
+
+Processing MailToMboxesController#create (for 0.0.0.0 at 2008-09-02 22:01:59) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/new
+Completed in 0.00040 (2499 reqs/sec) | Rendering: 0.00019 (47%) | 200 OK [http://test.host/mail_to_mbox]
+Sent mail to email address
+
+From: no-reply@example.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/316125762785210080
+Sent mail to email address
+
+From: no-reply@example.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/316125762785210080
+
+
+Processing MailToMboxesController#create (for 0.0.0.0 at 2008-09-02 22:03:17) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"mail_to_mboxes"}
+Redirected to http://test.host/mail_to_mbox/thank_you
+Completed in 0.00236 (424 reqs/sec) | 302 Found [http://test.host/mail_to_mbox]
+
+
+Processing MailToMboxesController#create (for 0.0.0.0 at 2008-09-02 22:03:17) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/new
+Completed in 0.00042 (2387 reqs/sec) | Rendering: 0.00020 (48%) | 200 OK [http://test.host/mail_to_mbox]
+Sent mail to email address
+
+From: no-reply@example.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/316125762785480670
+Sent mail to email address
+
+From: no-reply@example.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/316125762785480670
+
+
+Processing MailToMboxesController#create (for 0.0.0.0 at 2008-09-02 22:03:51) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"mail_to_mboxes"}
+Redirected to http://test.host/mail_to_mbox/thank_you
+Completed in 0.00236 (423 reqs/sec) | 302 Found [http://test.host/mail_to_mbox]
+
+
+Processing MailToMboxesController#create (for 0.0.0.0 at 2008-09-02 22:03:51) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/new
+Completed in 0.00041 (2457 reqs/sec) | Rendering: 0.00019 (47%) | 200 OK [http://test.host/mail_to_mbox]
+Sent mail to email address
+
+From: no-reply@example.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/316125762793662110
+Sent mail to email address
+
+From: no-reply@example.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/316125762793662110
+
+
+Processing MailToMboxesController#create (for 0.0.0.0 at 2008-09-02 22:04:10) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"mail_to_mboxes"}
+Redirected to http://test.host/mail_to_mbox/thank_you
+Completed in 0.00235 (425 reqs/sec) | 302 Found [http://test.host/mail_to_mbox]
+
+
+Processing MailToMboxesController#create (for 0.0.0.0 at 2008-09-02 22:04:10) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/new
+Completed in 0.00042 (2375 reqs/sec) | Rendering: 0.00020 (47%) | 200 OK [http://test.host/mail_to_mbox]
+Sent mail to email address
+
+From: no-reply@example.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/316125762793865057
+Sent mail to email address
+
+From: no-reply@example.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/316125762793865057
+
+
+Processing MailToMboxesController#create (for 0.0.0.0 at 2008-09-02 22:04:39) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"mail_to_mboxes"}
+Redirected to http://test.host/mail_to_mbox/thank_you
+Completed in 0.00238 (419 reqs/sec) | 302 Found [http://test.host/mail_to_mbox]
+
+
+Processing MailToMboxesController#create (for 0.0.0.0 at 2008-09-02 22:04:39) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/new
+Completed in 0.00041 (2462 reqs/sec) | Rendering: 0.00019 (46%) | 200 OK [http://test.host/mail_to_mbox]

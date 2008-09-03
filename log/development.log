@@ -975,3 +975,101 @@ Mime-Version: 1.0
 Content-Type: text/plain; charset=utf-8
 
 Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/930589829-811243857
+
+
+Processing MailToMboxesController#new (for 127.0.0.1 at 2008-09-02 22:05:24) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMTcwZTEyZGM4NDc3MGJhOGVl
+MThhNzM4NmQ2YTc5YWY=--87d02c3dfe7292e5d9abccfb3b32283785e53895
+  Parameters: {"action"=>"new", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/new
+Completed in 0.03073 (32 reqs/sec) | Rendering: 0.00393 (12%) | 200 OK [http://localhost/]
+
+
+Processing MailToMboxesController#create (for 127.0.0.1 at 2008-09-02 22:05:27) [POST]
+  Session ID: BAh7BzoMY3NyZl9pZCIlMTcwZTEyZGM4NDc3MGJhOGVlMThhNzM4NmQ2YTc5
+YWYiCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhh
+c2h7AAY6CkB1c2VkewA=--0b1714c50e12b9aebd6788beb802c89f763df9b5
+  Parameters: {"commit"=>"Get my emails", "account"=>{"ssl"=>"0", "username"=>"", "port"=>"", "server"=>"", "password"=>"", "email_address"=>""}, "authenticity_token"=>"7f4f162e070af0a83f4bc76f4c465af33b0615fb", "action"=>"create", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/new
+Completed in 0.01351 (73 reqs/sec) | Rendering: 0.00233 (17%) | 200 OK [http://localhost/mail_to_mbox]
+
+
+Processing MailToMboxesController#create (for 127.0.0.1 at 2008-09-02 22:05:32) [POST]
+  Session ID: BAh7BzoMY3NyZl9pZCIlMTcwZTEyZGM4NDc3MGJhOGVlMThhNzM4NmQ2YTc5
+YWYiCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhh
+c2h7AAY6CkB1c2VkewA=--0b1714c50e12b9aebd6788beb802c89f763df9b5
+  Parameters: {"commit"=>"Get my emails", "account"=>{"ssl"=>"0", "username"=>"", "port"=>"", "server"=>"", "password"=>"", "email_address"=>"test.wen@gmail.com"}, "authenticity_token"=>"7f4f162e070af0a83f4bc76f4c465af33b0615fb", "action"=>"create", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/new
+Completed in 0.01306 (76 reqs/sec) | Rendering: 0.00229 (17%) | 200 OK [http://localhost/mail_to_mbox]
+
+
+Processing MailToMboxesController#create (for 127.0.0.1 at 2008-09-02 22:05:37) [POST]
+  Session ID: BAh7BzoMY3NyZl9pZCIlMTcwZTEyZGM4NDc3MGJhOGVlMThhNzM4NmQ2YTc5
+YWYiCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhh
+c2h7AAY6CkB1c2VkewA=--0b1714c50e12b9aebd6788beb802c89f763df9b5
+  Parameters: {"commit"=>"Get my emails", "account"=>{"ssl"=>"0", "username"=>"", "port"=>"995", "server"=>"pop.gmail.com", "password"=>"", "email_address"=>"test.wen@gmail.com"}, "authenticity_token"=>"7f4f162e070af0a83f4bc76f4c465af33b0615fb", "action"=>"create", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/new
+Completed in 0.01426 (70 reqs/sec) | Rendering: 0.00215 (15%) | 200 OK [http://localhost/mail_to_mbox]
+
+
+Processing MailToMboxesController#create (for 127.0.0.1 at 2008-09-02 22:05:39) [POST]
+  Session ID: BAh7BzoMY3NyZl9pZCIlMTcwZTEyZGM4NDc3MGJhOGVlMThhNzM4NmQ2YTc5
+YWYiCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhh
+c2h7AAY6CkB1c2VkewA=--0b1714c50e12b9aebd6788beb802c89f763df9b5
+  Parameters: {"commit"=>"Get my emails", "account"=>{"ssl"=>"0", "username"=>"", "port"=>"ss", "server"=>"pop.gmail.com", "password"=>"", "email_address"=>"test.wen@gmail.com"}, "authenticity_token"=>"7f4f162e070af0a83f4bc76f4c465af33b0615fb", "action"=>"create", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/new
+Completed in 0.01303 (76 reqs/sec) | Rendering: 0.00229 (17%) | 200 OK [http://localhost/mail_to_mbox]
+
+
+Processing MailToMboxesController#create (for 127.0.0.1 at 2008-09-02 22:05:43) [POST]
+  Session ID: BAh7BzoMY3NyZl9pZCIlMTcwZTEyZGM4NDc3MGJhOGVlMThhNzM4NmQ2YTc5
+YWYiCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhh
+c2h7AAY6CkB1c2VkewA=--0b1714c50e12b9aebd6788beb802c89f763df9b5
+  Parameters: {"commit"=>"Get my emails", "account"=>{"ssl"=>"0", "username"=>"test.wen", "port"=>"ss", "server"=>"pop.gmail.com", "password"=>"", "email_address"=>"test.wen@gmail.com"}, "authenticity_token"=>"7f4f162e070af0a83f4bc76f4c465af33b0615fb", "action"=>"create", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/new
+Completed in 0.05373 (18 reqs/sec) | Rendering: 0.00222 (4%) | 200 OK [http://localhost/mail_to_mbox]
+
+
+Processing MailToMboxesController#create (for 127.0.0.1 at 2008-09-02 22:05:50) [POST]
+  Session ID: BAh7BzoMY3NyZl9pZCIlMTcwZTEyZGM4NDc3MGJhOGVlMThhNzM4NmQ2YTc5
+YWYiCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhh
+c2h7AAY6CkB1c2VkewA=--0b1714c50e12b9aebd6788beb802c89f763df9b5
+  Parameters: {"commit"=>"Get my emails", "account"=>{"ssl"=>"0", "username"=>"test.wen", "port"=>"ss", "server"=>"pop.gmail.com", "password"=>"p@s5w0rd", "email_address"=>"test.wen@gmail.com"}, "authenticity_token"=>"7f4f162e070af0a83f4bc76f4c465af33b0615fb", "action"=>"create", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/new
+Completed in 0.01277 (78 reqs/sec) | Rendering: 0.00210 (16%) | 200 OK [http://localhost/mail_to_mbox]
+
+
+Processing MailToMboxesController#create (for 127.0.0.1 at 2008-09-02 22:05:58) [POST]
+  Session ID: BAh7BzoMY3NyZl9pZCIlMTcwZTEyZGM4NDc3MGJhOGVlMThhNzM4NmQ2YTc5
+YWYiCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhh
+c2h7AAY6CkB1c2VkewA=--0b1714c50e12b9aebd6788beb802c89f763df9b5
+  Parameters: {"commit"=>"Get my emails", "account"=>{"ssl"=>"1", "username"=>"test.wen", "port"=>"995", "server"=>"pop.gmail.com", "password"=>"p@s5w0rd", "email_address"=>"test.wen@gmail.com"}, "authenticity_token"=>"7f4f162e070af0a83f4bc76f4c465af33b0615fb", "action"=>"create", "controller"=>"mail_to_mboxes"}
+Redirected to http://localhost:3000/mail_to_mbox/thank_you
+Completed in 1.98943 (0 reqs/sec) | 302 Found [http://localhost/mail_to_mbox]
+
+
+Processing MailToMboxesController#thank_you (for 127.0.0.1 at 2008-09-02 22:06:00) [GET]
+  Session ID: BAh7BzoMY3NyZl9pZCIlMTcwZTEyZGM4NDc3MGJhOGVlMThhNzM4NmQ2YTc5
+YWYiCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhh
+c2h7AAY6CkB1c2VkewA=--0b1714c50e12b9aebd6788beb802c89f763df9b5
+  Parameters: {"action"=>"thank_you", "controller"=>"mail_to_mboxes"}
+Rendering mail_to_mboxes/thank_you
+Completed in 0.00488 (204 reqs/sec) | Rendering: 0.00147 (30%) | 200 OK [http://localhost/mail_to_mbox/thank_you]
+Sent mail to test.wen@gmail.com
+
+From: no-reply@example.com
+To: test.wen@gmail.com
+Subject: Your email archive download link
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your email has been archived. you can download you email archive in mbox form at http://localhost:3000/download/930589829810701456
+
+
+Processing DownloadController#show (for 127.0.0.1 at 2008-09-02 22:06:12) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--8a6b5ebd2fcc850446285f8df0150014c24b82b1
+  Parameters: {"action"=>"show", "id"=>"930589829810701456", "controller"=>"download"}
+Redirected to http://localhost:3000/mboxes/test.wenatgmail.com_20080902220601
+Completed in 0.00909 (109 reqs/sec) | 302 Found [http://localhost/download/930589829810701456]

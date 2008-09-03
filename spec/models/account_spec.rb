@@ -137,7 +137,7 @@ describe Account, "id" do
     it "should be concatenation of hashes of two components of file_name" do
         account = Account.new
         account.stub!(:file_name).and_return("user_2008090102121012")
-        account.id.should == "#{'user'.hash}#{'2008090102121012'.hash}"
+        account.id.should == "#{'user'.hash.abs}#{'2008090102121012'.hash.abs}"
     end
 end
 
